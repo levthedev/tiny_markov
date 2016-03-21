@@ -2,4 +2,4 @@
 the smallest markov chain I could write (129 bytes)
 
 ### usage
-`ruby 2chainz.rb markymark`
+`ruby 2chainz.rb marky_mark`
